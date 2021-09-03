@@ -1,0 +1,18 @@
+{
+    "name": "nodetrading",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {
+        "@babel/core": "^7.14.3",
+        "@babel/plugin-proposal-decorators": "^7.14.2",
+        "@babel/preset-env": "^7.14.4",
+        "@babel/register": "^7.13.16"
+    }
+}
